@@ -53,6 +53,7 @@ Drills into the product side. The bar chart ranks all item categories by total s
 - Interactive slicers (Rating, Item Type, Outlet Location, Outlet Size, Outlet Type)
 
 ---
+- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Blinkit%20Power%20Bi%20Assignment-2.pbix"> The Power BI source file</a> — open with Power BI Desktop to explore the full interactive dashboard
 
 
 
