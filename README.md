@@ -55,10 +55,17 @@ Drills into the product side. The bar chart ranks all item categories by total s
 
 ## Files in this repo
 
-- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Screenshot%202026-05-04%20153154.png"> Main overview page</a> — full dataset 
-- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Screenshot%202026-05-04%20153603.png">Items data page</a> — category breakdown 
-- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Screenshot%202026-05-04%20153436.png">Outlet data page</a> — outlet type and forecast 
-- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Screenshot%202026-05-04%20153324.png">Dashboard filtered to Rating 5 only</a> 
+- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Screenshot%202026-05-04%20153154.png"> Main overview page</a> — full dataset
+<img width="1322" height="732" alt="dashboard slide 1" src="https://github.com/user-attachments/assets/173be7b0-2640-42a9-9726-ce2ebe88b592" />
+
+- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Screenshot%202026-05-04%20153603.png">Items data page</a> — category breakdown
+<img width="1305" height="732" alt="Product analysis slide" src="https://github.com/user-attachments/assets/aaa427a6-b2c7-454f-822a-49edb0ef474d" />
+
+- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Screenshot%202026-05-04%20153436.png">Outlet data page</a> — outlet type and forecast
+<img width="1316" height="735" alt="Outlet details slide" src="https://github.com/user-attachments/assets/bf02df65-a368-43e4-a12e-f23b6e15dc3e" />
+
+- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Screenshot%202026-05-04%20153324.png">Dashboard filtered to Rating 5 only</a>
+<img width="1303" height="726" alt="5-rating display" src="https://github.com/user-attachments/assets/fbae1727-e1b0-4c03-b1cd-bc46283f1859" />
 
 
 ---
