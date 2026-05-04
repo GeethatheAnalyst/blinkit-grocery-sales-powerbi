@@ -51,6 +51,15 @@ Drills into the product side. The bar chart ranks all item categories by total s
 - DAX (calculated measures for KPIs and rankings)
 - Power Query (data cleaning and transformations)
 - Interactive slicers (Rating, Item Type, Outlet Location, Outlet Size, Outlet Type)
+---
+
+## Files in this repo
+
+- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Screenshot%202026-05-04%20153154.png"> Main overview page</a> — full dataset 
+- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Screenshot%202026-05-04%20153603.png">Items data page</a> — category breakdown 
+- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Screenshot%202026-05-04%20153436.png">Outlet data page</a> — outlet type and forecast 
+- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Screenshot%202026-05-04%20153324.png">Dashboard filtered to Rating 5 only</a> 
+
 
 ---
 - <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/Blinkit%20Power%20Bi%20Assignment-2.pbix"> The Power BI source file</a> — open with Power BI Desktop to explore the full interactive dashboard
