@@ -38,3 +38,15 @@ Drills into the product side. The bar chart ranks all item categories by total s
 - Regular fat items account for 64.6% of total sales by value despite lower average ratings
 
 ---
+
+## Tools used
+
+- Power BI Desktop
+- DAX (calculated measures for KPIs and rankings)
+- Power Query (data cleaning and transformations)
+- Interactive slicers (Rating, Item Type, Outlet Location, Outlet Size, Outlet Type)
+
+---
+
+
+
