@@ -48,5 +48,7 @@ Drills into the product side. The bar chart ranks all item categories by total s
 
 ---
 
+## Dataset used
 
+- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a> | Raw dataset used in this project — source: Kaggle
 
