@@ -3,6 +3,12 @@
 This was my first proper Power BI project. The dataset is a publicly available grocery sales dataset based on Blinkit's product and outlet data (sourced from Kaggle). I built this to practise creating dashboards that actually tell a story — not just charts thrown together on a page.
 ---
 
+
+## Dataset used
+
+- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a> | Raw dataset used in this project — source: Kaggle
+---
+
 ## What I was trying to find out
 
 - Which product categories drive the most revenue?
@@ -48,7 +54,5 @@ Drills into the product side. The bar chart ranks all item categories by total s
 
 ---
 
-## Dataset used
 
-- <a href="https://github.com/GeethatheAnalyst/blinkit-grocery-sales-powerbi/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a> | Raw dataset used in this project — source: Kaggle
 
