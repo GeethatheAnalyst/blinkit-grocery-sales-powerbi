@@ -1,6 +1,7 @@
 # Blinkit Grocery Sales Dashboard — Power BI
 
 This was my first proper Power BI project. The dataset is a publicly available grocery sales dataset based on Blinkit's product and outlet data (sourced from Kaggle). I built this to practise creating dashboards that actually tell a story — not just charts thrown together on a page.
+---
 
 ## What I was trying to find out
 
@@ -25,3 +26,15 @@ Focuses on the outlet side of the business. Supermarket Type 1 dominates with 78
 
 **Page 4 — Items Data**
 Drills into the product side. The bar chart ranks all item categories by total sales — Fruits & Vegetables leads at 178K, just ahead of Snack Foods at 175K. Also shows total ratings split by fat content (Low Fat: 22K, Regular: 12K) and max sales by fat content — both sit at 267, which tells you fat content alone doesn't determine a product's ceiling
+---
+
+## Key findings
+
+- Fruits & Vegetables (178K) and Snack Foods (175K) are the top 2 revenue categories overall — but when filtered to Rating 5 only, Snack Foods pulls ahead
+- Supermarket Type 1 accounts for ~65% of all outlet sales
+- Tier 2 locations outperform Tier 1 and Tier 3 in total sales for Supermarket Type 1
+- Sales peaked in 2018 at 204.52K and have stabilised around 130K since
+- Low Fat and Regular items both have the same max sales value (267) — fat content doesn't determine a product's sales ceiling
+- Regular fat items account for 64.6% of total sales by value despite lower average ratings
+
+---
